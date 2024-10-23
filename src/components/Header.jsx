@@ -13,8 +13,8 @@ const Header = () => {
             <div className="relative">
                 <i className="fa-solid fa-magnifying-glass text-[#150B2BB3] absolute ml-3 left-3 top-1/2 transform -translate-y-1/2"></i>
                 <input className="px-6 pl-14 py-[12px] rounded-[50px] bg-[#150B2B0D]" type="text" placeholder="Search" />
-                <button className="ml-4 p-2 bg-[#0BE58A] rounded-[20%]">
-                    <i className="fa-regular fa-user text-[20px]"></i>
+                <button className="ml-4 p-2 bg-[#0BE58A] rounded-[25%]">
+                    <i className="fa-regular fa-user-circle text-[20px]"></i>
                 </button>
             </div>
         </div>
